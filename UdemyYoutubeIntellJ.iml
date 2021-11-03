@@ -7,8 +7,9 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="client-combined-3.141.59-sources" level="project" />
     <orderEntry type="library" name="byte-buddy-1.8.15" level="project" />
     <orderEntry type="library" name="testng-7.4.0" level="project" />
-    <orderEntry type="library" name="commons-io-2.8.0-javadoc" level="project" />
+    <orderEntry type="library" name="commons-io-2.11.0-javadoc" level="project" />
   </component>
 </module>
